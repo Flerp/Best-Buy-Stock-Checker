@@ -19,12 +19,12 @@ This script does not purchase for you, and performs no automation for purchasing
 There are two variants of this script
 
 ### Standard
-If in stock: The script will play an incredibly loud alarm sound, print to the console, and open your default web browser to the product page so that you may buy it.
+If in stock: The script will play an incredibly loud alarm sound, print to the console, and open your default web browser to the product page so that you may buy it.  
 If out of stock: The script will print out to the console with a timestamp.
 
 ### Text
-If in stock: The script will send an email to your phone's MMS/SMS provider email (phonenumber@mmsdomain.com) with the URL so that you can purchase the item via your phone.
-If out of stock: The script will print out to the console with a timestamp.
+If in stock: The script will send an email to your phone's MMS/SMS provider email (phonenumber@mmsdomain.com) with the URL so that you can purchase the item via your phone.  
+If out of stock: The script will print out to the console with a timestamp.  
 
 ## How to setup
 
@@ -71,7 +71,7 @@ goto repeat
 ```
 
 This is an example script for Windows operating systems.
-It installs the required packages, then runs the python script, while outputting everything to a log file.
-It then generates a random number between 6 and 15, pings localhost for that amount of seconds, then repeats.
+It installs the required packages, then runs the python script, while outputting everything to a log file.  
+It then generates a random number between 6 and 15, pings localhost for that amount of seconds, then repeats.  
 
 There is a complete example in the example folder that is ready to use.
