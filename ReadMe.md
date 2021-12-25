@@ -1,8 +1,9 @@
 # Best Buy Stock Checker
 
-If you enjoy my work and would like to send me a tip
-BTC: 3MuNv3vVygXkYBKkJk56sgaWqCdg1L2tBh
-ETH: 0x8bBDCD275addfc8fA084854c3123e72b015dAaE6
+If you enjoy my work and would like to send me a tip  
+
+BTC: 3MuNv3vVygXkYBKkJk56sgaWqCdg1L2tBh  
+ETH: 0x8bBDCD275addfc8fA084854c3123e72b015dAaE6  
 DOGE: DGyouCkRvXZ7xoSSGTy8t1Yx5tNvuaVNk9
 
 ## Why did I make this?
